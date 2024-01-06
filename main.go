@@ -1,9 +1,9 @@
 package main
 
 import (
-	"template-echo/factory"
-	"template-echo/middleware"
-	"template-echo/routes"
+	"laundry-api/factory"
+	"laundry-api/middleware"
+	"laundry-api/routes"
 
 	"github.com/labstack/echo/v4"
 )

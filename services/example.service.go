@@ -2,11 +2,11 @@ package services
 
 import (
 	"errors"
-	"template-echo/context"
-	"template-echo/dto"
-	"template-echo/entities"
-	"template-echo/factory"
-	"template-echo/repositories"
+	"laundry-api/context"
+	"laundry-api/dto"
+	"laundry-api/entities"
+	"laundry-api/factory"
+	"laundry-api/repositories"
 
 	"github.com/stroiman/go-automapper"
 	"gorm.io/gorm"

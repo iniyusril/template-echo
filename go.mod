@@ -1,4 +1,4 @@
-module template-echo
+module laundry-api
 
 go 1.20
 

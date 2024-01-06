@@ -1,8 +1,8 @@
 package factory
 
 import (
-	"template-echo/db"
-	"template-echo/repositories"
+	"laundry-api/db"
+	"laundry-api/repositories"
 
 	"gorm.io/gorm"
 )

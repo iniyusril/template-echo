@@ -1,8 +1,8 @@
 package db
 
 import (
+	"laundry-api/entities"
 	"sync"
-	"template-echo/entities"
 
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"

@@ -1,8 +1,8 @@
 package routes
 
 import (
-	"template-echo/controller"
-	"template-echo/factory"
+	"laundry-api/controller"
+	"laundry-api/factory"
 
 	"github.com/labstack/echo/v4"
 )

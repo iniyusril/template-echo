@@ -1,7 +1,7 @@
 package repositories
 
 import (
-	"template-echo/entities"
+	"laundry-api/entities"
 
 	"gorm.io/gorm"
 )

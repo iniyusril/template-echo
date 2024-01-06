@@ -1,12 +1,12 @@
 package controller
 
 import (
+	"laundry-api/context"
+	"laundry-api/dto"
+	"laundry-api/dto/response"
+	"laundry-api/factory"
+	"laundry-api/services"
 	"net/http"
-	"template-echo/context"
-	"template-echo/dto"
-	"template-echo/dto/response"
-	"template-echo/factory"
-	"template-echo/services"
 
 	"github.com/labstack/echo/v4"
 )

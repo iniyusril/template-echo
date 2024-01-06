@@ -1,8 +1,8 @@
 package middleware
 
 import (
-	"template-echo/context"
-	"template-echo/db"
+	"laundry-api/context"
+	"laundry-api/db"
 
 	"github.com/labstack/echo/v4"
 )
