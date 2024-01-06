@@ -1,8 +1,8 @@
 package routes
 
 import (
-	"template-fiber/controller"
-	"template-fiber/factory"
+	"template-echo/controller"
+	"template-echo/factory"
 
 	"github.com/labstack/echo/v4"
 )

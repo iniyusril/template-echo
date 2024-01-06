@@ -2,11 +2,11 @@ package controller
 
 import (
 	"net/http"
-	"template-fiber/context"
-	"template-fiber/dto"
-	"template-fiber/dto/response"
-	"template-fiber/factory"
-	"template-fiber/services"
+	"template-echo/context"
+	"template-echo/dto"
+	"template-echo/dto/response"
+	"template-echo/factory"
+	"template-echo/services"
 
 	"github.com/labstack/echo/v4"
 )

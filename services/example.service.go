@@ -2,11 +2,11 @@ package services
 
 import (
 	"errors"
-	"template-fiber/context"
-	"template-fiber/dto"
-	"template-fiber/entities"
-	"template-fiber/factory"
-	"template-fiber/repositories"
+	"template-echo/context"
+	"template-echo/dto"
+	"template-echo/entities"
+	"template-echo/factory"
+	"template-echo/repositories"
 
 	"github.com/stroiman/go-automapper"
 	"gorm.io/gorm"

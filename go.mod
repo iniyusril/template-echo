@@ -1,4 +1,4 @@
-module template-fiber
+module template-echo
 
 go 1.20
 

@@ -1,9 +1,9 @@
 package main
 
 import (
-	"template-fiber/factory"
-	"template-fiber/middleware"
-	"template-fiber/routes"
+	"template-echo/factory"
+	"template-echo/middleware"
+	"template-echo/routes"
 
 	"github.com/labstack/echo/v4"
 )

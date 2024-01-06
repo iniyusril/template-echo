@@ -1,7 +1,7 @@
 package repositories
 
 import (
-	"template-fiber/entities"
+	"template-echo/entities"
 
 	"gorm.io/gorm"
 )

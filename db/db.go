@@ -2,7 +2,7 @@ package db
 
 import (
 	"sync"
-	"template-fiber/entities"
+	"template-echo/entities"
 
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"

@@ -1,8 +1,8 @@
 package factory
 
 import (
-	"template-fiber/db"
-	"template-fiber/repositories"
+	"template-echo/db"
+	"template-echo/repositories"
 
 	"gorm.io/gorm"
 )
